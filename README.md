@@ -20,13 +20,12 @@
   <br>
   
 - ☁️ <samp><b>Cloud & DevOps: Actively expanding expertise in cloud computing, DevOps practices, infrastructure monitoring, and automation technologies.</b>
-- 👨‍🎓 <samp><b>B.Tech in Electrical Engrineering(2018-2022) from National Institute of Technology Raipur - 8.51 CPI</b>
-- 🔭 <samp>Diploma in Computer Applications from C.V.Raman University(2020) - 83.85%
-- 🥇 <samp>Runner Up Robothon_1.0(March 2020) || Runner Up Apscript Hackathon(Febrruary 2021) || E-Ujjwala Hackathon Finalists(August 2020) || Codeutsava 5.0 Winner (Feb 2022)
+- 🔐 <samp><b>Cybersecurity: Interested in security operations, system hardening, and building secure, scalable infrastructures.</b>
+- 🖥️ <samp>Technical Skills: Familiar with networking, Linux environments, troubleshooting, and modern development workflows.
+- 🤝 <samp>Team Collaboration: Skilled at adapting to fast-paced environments, collaborating across teams, and handling technical challenges under pressure.
 - 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
-- 💬 <samp>Ask me about Full Stack Dev/DevOps/IoT & Electronics.
-- 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
-- ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
+- 🚀 <samp>Career Goals: Seeking opportunities to grow within cloud computing, DevOps, and cybersecurity while contributing to innovative and high-impact projects.
+- 🎓 <samp>Continuous Learner: Constantly improving technical and professional skills to stay aligned with modern industry standards and emerging technologies.
 - ♟ <samp>I play a lot of chess, and Valorant. I am 1400-1500 rated on chess.com. My peak Valorant rank is Diamond 3.
 </div>
 
