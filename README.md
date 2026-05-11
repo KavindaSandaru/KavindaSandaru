@@ -33,7 +33,7 @@
 
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
-- 👷 <b>Junior Network Administrator and Tech Support Executive @ https://www.rezgateway.com/ </b><br>
+- 👷 <b>Junior Network Administrator and Tech Support Executive @ [rezgateway](https://www.rezgateway.com/) </b><br>
 </div>
 
 ##
