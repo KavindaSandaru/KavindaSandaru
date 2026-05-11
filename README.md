@@ -1,6 +1,6 @@
-# Hey Everyone! I'm [Aman Kumar Dewangan a.k.a AkD!](https://github.com/amandewatnitrr)
+# Hey Everyone! I'm [Kavinda Sandaru](https://github.com/KavindaSandaru)
 <br><br>
-<a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
+<a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/](https://www.linkedin.com/in/kavinda-sandaru-1b741b192/">
   <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/amandewatnitrr">
