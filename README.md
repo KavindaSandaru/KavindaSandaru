@@ -80,13 +80,6 @@
 
 <hr> 
   
-  
-<br>
-
-### 🔖 Holopins:
-  
-[![@amandewatnitrr's Holopin board](https://holopin.io/api/user/board?user=amandewatnitrr)](https://holopin.io/@amandewatnitrr)
-
 <br>  
   
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
