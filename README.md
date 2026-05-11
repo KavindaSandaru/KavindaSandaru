@@ -33,16 +33,7 @@
 
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
-- 👷 <b>Software Developer @ GE Healthcare</b><br>
-- 🔬 <b>Ex-Research Student at Wolfram Summer School, 2021 (Education and Innovation Track)</b><br>
-- 🕵🏻 <b>Summer Research Intern at National Institute of Technology Raipur, Chhattisgarh(May 2020 - Aug 2020)</b><br>
-- 👨🏾‍💻 <b>Embedded IoT Intern at SVA Robotics(Sep 2020 - Oct 2020)</b><br>
-- ✍🏻 Ex-Core Member of IEEE Bombay Section Technical and Professional Committee (August 2020 - May 2022)<br>
-- 👨🏻‍💻 Ex-Head Coordinator at Turing Club of Programmers, NIT Raipur.<br>
-- ☁ 30 Days of Google Cloud(Cloud Engnieering Track)<br>
-- 👨🏻‍🏫 Mentor at SparkDev UPE FIU (2021)<br>
-- 👨🏻‍🏫 Mentor and Judge at HackOdisha'21<br>
-- 👷🏻 Lead Organiser and Speaker at Octafest'21 and Trek The Hill'22<br>
+- 👷 <b>Junior Network Administrator and Tech Support Executive</b><br>
 </div>
 
 ##
