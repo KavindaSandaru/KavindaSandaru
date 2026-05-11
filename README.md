@@ -33,7 +33,7 @@
 
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
-- 👷 Junior Network Administrator and Tech Support Executive @ [Kavinda Sandaru!](https://github.com/KavindaSandaru) 
+- 👷 <b>Junior Network Administrator and Tech Support Executive @ <a href="https://www.rezgateway.com/" target="_blank">rezgateway</a></b><br>
 </div>
 
 ##
