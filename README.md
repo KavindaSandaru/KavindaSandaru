@@ -16,7 +16,7 @@
 ## <p align="center"><h4 align="center"><samp> A DevOps Enthusiast, a Cybersecurity Learner, a Cloud Computing Explorer ☁️ & a Passionate IT Professional </samp></h4></p>
 
 <div>
-<img align="right" src="https://github.com/KavindaSandaru/KavindaSandaru/blob/main/header_.png" width="40%"/>
+<img align="right" src="https://github.com/KavindaSandaru/KavindaSandaru/blob/main/Cat%20Kissing%20GIF%20-%20Cat%20Kissing%20Mwah%20-%20Discover%20%26%20Share%20GIFs.gif" width="40%"/>
   <br>
   
 - ☁️ <samp><b>Cloud & DevOps: Actively expanding expertise in cloud computing, DevOps practices, infrastructure monitoring, and automation technologies.</b>
