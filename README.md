@@ -26,7 +26,7 @@
 - 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
 - 🚀 <samp>Career Goals: Seeking opportunities to grow within cloud computing, DevOps, and cybersecurity while contributing to innovative and high-impact projects.
 - 🎓 <samp>Continuous Learner: Constantly improving technical and professional skills to stay aligned with modern industry standards and emerging technologies.
-- ♟ <samp>I play a lot of chess, and Valorant. I am 1400-1500 rated on chess.com. My peak Valorant rank is Diamond 3.
+- 🎮 <samp>I play a lot of games, i mostly play dota 2 and i play variety of games.
 </div>
 
 ##
