@@ -78,4 +78,4 @@
   
 <br>  
   
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
+![](https://github.com/KavindaSandaru/KavindaSandaru/blob/main/Gemini_Generated_Image_ctub07ctub07ctub.png)
